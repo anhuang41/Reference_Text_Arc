@@ -30,3 +30,4 @@ void draw() {
   strokeWeight(8);
     stroke(255,46,242);
   arc(mouseX-55, mouseY-50, 34, 47, radians(260), radians(450));
+}
